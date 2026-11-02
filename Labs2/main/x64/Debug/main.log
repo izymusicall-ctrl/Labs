@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Labs\Labs2\main\main.cpp(27,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\Labs2\main\main.cpp(35,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.vcxproj -> D:\Labs\Labs2\x64\Debug\main.exe
